@@ -4,7 +4,7 @@ This repository contains the shader code implementation for the paper:
 Submitted to *Computer Animation and Virtual Worlds*.
 
 ## Important Note
-This code is directly associated with the manuscript submitted to *The Visual Computer*.
+This code is directly associated with the manuscript submitted to *Computer Animation and Virtual Worlds*.
 If you use this code, please cite the corresponding paper.
 
 ## 1. Project Information
