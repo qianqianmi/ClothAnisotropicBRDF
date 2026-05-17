@@ -1,10 +1,10 @@
 # Anisotropic BRDF for Real-Time Cloth Rendering
 This repository contains the shader code implementation for the paper:
 **Anisotropic BRDF Modeling for High-Fidelity Real-Time Cloth Rendering**
-Submitted to *Computer Animation and Virtual Worlds*.
+Submitted to *The Journal of Supercomputing*.
 
 ## Important Note
-This code is directly associated with the manuscript submitted to *Computer Animation and Virtual Worlds*.
+This code is directly associated with the manuscript submitted to *The Journal of Supercomputing*.
 If you use this code, please cite the corresponding paper.
 
 ## 1. Project Information
